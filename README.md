@@ -10,3 +10,4 @@
 * Connection frontend to back
 * Authentication
 * Authorization
+* File Uploads - Image Processing, Validation and Storage (Disk)
